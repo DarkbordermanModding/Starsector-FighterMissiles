@@ -1,0 +1,5 @@
+{
+    "plugins":{
+        "MissileToFighterPlugin": "mod.fightermissiles.plugins.MissileToFighterPlugin"
+    }
+}
