@@ -1,9 +1,9 @@
 {
 	"id":"darkborderman.fightermissiles",
-	"name":"Fighter missiles",
+	"name":"Fighter Missiles",
 	"author":"Darkborderman",
 	"version":"0.0.0",
-	"description":"Use fighter missiles",
+	"description":"Add some weapons that shoot fighters to enchance gameplay experience.",
 	"gameVersion":"0.95.1a-RC6",
 	"jars": ["jars/fightermissiles.jar"]
 }
